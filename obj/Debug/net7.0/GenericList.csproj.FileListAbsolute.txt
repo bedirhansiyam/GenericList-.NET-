@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\bin\Debug\net7.0\GenericList.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\bin\Debug\net7.0\GenericList.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\bin\Debug\net7.0\GenericList.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\bin\Debug\net7.0\GenericList.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\bin\Debug\net7.0\GenericList.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\GenericList.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\GenericList.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\GenericList.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\refint\GenericList.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\GenericList.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\GenericList.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\GenericList\obj\Debug\net7.0\ref\GenericList.dll
